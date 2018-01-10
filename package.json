@@ -27,9 +27,9 @@
   "dependencies": {
     "chalk": "^1.1.1",
     "commander": "2.8.1",
-    "hap-nodejs": "0.4.38",
-    "semver": "5.0.3",
+    "hap-nodejs": "github:grover/HAP-NodeJS#20e5aaba3be15132d785b7ca3ed2dfcb036e5b7a",
     "node-persist": "^0.0.8",
-    "qrcode-terminal": "^0.11.0"
+    "qrcode-terminal": "^0.11.0",
+    "semver": "5.0.3"
   }
 }
